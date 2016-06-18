@@ -37,7 +37,7 @@
 1. 敏捷軟體開發概念
 2. 版本控制系統基礎
 3. Git 指令操作入門
-4. 使用 GitHub 平台、Issues 與 Board
+4. 使用 GitHub：Repository、Organization、Pages、Issues 與 Board
 5. 建立 Slack 通訊平台、建立專案頻道
 6. Slack 與 GitHub 整合
 7. 檢視現有開發流程、找出近期可改善的問題
