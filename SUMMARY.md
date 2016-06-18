@@ -7,4 +7,4 @@
   * [認識敏捷](agile/README.md)
   * [認識版本控制系統](vcs/README.md)
   * [Git 入門](vcs/git/README.md)
-  * [Geb 入門]
+  * [GitHub 入門](vcs/github/README.md)

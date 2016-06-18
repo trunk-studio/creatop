@@ -2,6 +2,8 @@
 ​
 企業內部溝通協作平台​
 
+![](https://a.slack-edge.com/0180/img/icons/app-256.png)
+
 ## What is Slack?
 ​
 Slack 是一個工作用的通訊軟體，可以整合多方工具在一起，在非必要的情況下就可以直接用 Slack 追蹤相關進度，不需花時間去開啟相關工具。
@@ -59,6 +61,12 @@ Slack 是一個工作用的通訊軟體，可以整合多方工具在一起，�
 - 用 `@here` 或是 `@channel` 可以標記群組全部人，兩者差異是 `@here` 是針對在**線上**全部人非在線就無法通知，而 `@channel` 則是不分是否有在線只要在該群組就會被呼叫到
 - `/star`:像是瀏覽器的`我的最愛`功能，可以用在常用的群組
 - `/invite @user`:可以邀請在團隊內但沒在群組中的人
+
+## 設定 Slack 時區
+
+時區不正確會造成 Slack 顯示錯誤的時間，進而影響勿擾時間的設定。
+
+修正方式請參考 https://github.com/softnshare/slack/issues/1
 
 ## 實用的 Slack App
 

@@ -2,6 +2,8 @@
 
 The Joel Test
 
+![](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2015/02/the-joel-test-for-programmers.jpg)
+
 三分鐘即可評估開發團隊的實力！
 
 1. Do you use source control?
