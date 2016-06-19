@@ -11,6 +11,12 @@
 
 Git版本控制系統的操作可以藉由指令或是GUI的操作達到我們想要的目的。
 
+## Git vs Svn
+
+![](./git-transport.png)
+
+![](./svn-transport.png)
+
 ## 常用 Git 指令介紹
 
 * `git init`
