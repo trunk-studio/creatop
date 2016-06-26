@@ -1,9 +1,8 @@
 # 第一週
 
-
 ## 時間與人數
 
-週日下午 1:00 ~ 4:00
+6/19 週日下午 1:00 ~ 4:00
 參與人數約 10 人
 
 ## 前置準備
@@ -34,10 +33,11 @@
 
 ## 預計進度
 
-1. 敏捷軟體開發概念
-2. 版本控制系統基礎
-3. Git 指令操作入門
-4. 使用 GitHub：Repository、Organization、Pages、Issues 與 Board
-5. 建立 Slack 通訊平台、建立專案頻道
-6. Slack 與 GitHub 整合
-7. 檢視現有開發流程、找出近期可改善的問題
+1. 個人問卷（Pre-Test）
+2. 敏捷軟體開發概念
+3. 版本控制系統基礎
+4. Git 指令操作入門
+5. 使用 GitHub：Repository、Organization、Pages、Issues 與 Board
+6. 建立 Slack 通訊平台、建立專案頻道
+7. Slack 與 GitHub 整合
+8. 檢視現有開發流程、找出近期可改善的問題

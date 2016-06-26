@@ -2,9 +2,9 @@
 
 The Joel Test
 
-![](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2015/02/the-joel-test-for-programmers.jpg)
+原文：http://www.joelonsoftware.com/articles/fog0000000043.html
 
-三分鐘即可評估開發團隊的實力！
+用約耳測試評估開發團隊的實力水平！
 
 1. Do you use source control?
 2. Can you make a build in one step?
