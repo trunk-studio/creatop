@@ -16,3 +16,10 @@
 4. Git 指令操作入門
 5. 使用 GitHub：Repository、Organization、Pages、Issues 與 Board
 6. Slack 與 GitHub 整合
+
+## 參考資料
+
+* [Yes, Designers can use git too!](https://blog.enki.com/yes-designers-can-use-git-too-79f3cef9c899#.2jpkh52ti)
+* [Why designers should learn Git](http://www.leonardteo.com/2012/11/why-designers-should-learn-git/)
+* [Git: A Designer’s Perspective](https://www.viget.com/articles/git-a-designers-perspective)
+* [The Designer’s Guide to Git or: How I Learned to Stop Worrying and Love the Repository.](https://www.sitepoint.com/the-designers-guide-to-git-or-how-i-learned-to-stop-worrying-and-love-the-repository/)

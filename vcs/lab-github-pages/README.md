@@ -67,6 +67,10 @@ git push origin gh-pages
 http://帳號名稱.github.io/專案名稱/
 ```
 
+## 修改圖片檔
+
+![](assets/README-6839d.png)
+
 ## Custom Domain Name
 
 https://help.github.com/articles/using-a-custom-domain-with-github-pages/
