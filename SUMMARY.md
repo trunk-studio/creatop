@@ -10,4 +10,4 @@
   * [工具 - PieTTY](tools/pietty/README.md)
   * [認識版本控制系統](vcs/README.md)
   * [Git 入門](vcs/git/README.md)
-  * [實作 - GitHub Pages](lab-github-pages/README.md)
+  * [實作 - GitHub Pages](vcs/lab-github-pages/README.md)

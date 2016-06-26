@@ -1,5 +1,32 @@
 # Git 入門
 
+Linus Torvalds（Linux Kernel 與 Git 作者）稱 Git 是「來自地獄的資訊管理者」。
+
+[Initial revision of "git", the information manager from hell](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
+
+> I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git.	--- Linus Torvalds
+
+
+## 分散式工作流程
+
+集中式工作流
+
+![](assets/README-e17cb.png)
+
+集成管理員工作流
+
+![](assets/README-de6f6.png)
+
+司令官與副官工作流
+
+![](assets/README-4016a.png)
+
+## 提供 Git 服務的網站
+
+* GitHub
+* Bitbucket
+* GitLab
+
 ## 練習工具
 
 * [Code School - Try Git](https://try.github.io/)
@@ -13,9 +40,9 @@ Git版本控制系統的操作可以藉由指令或是GUI的操作達到我們�
 
 ## Git vs Svn
 
-![](git-transport.png)
+![](assets/git-transport.png)
 
-![](svn-transport.png)
+![](assets/svn-transport.png)
 
 ## 常用 Git 指令介紹
 

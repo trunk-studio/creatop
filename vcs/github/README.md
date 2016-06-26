@@ -9,3 +9,19 @@ https://pages.github.com/
 ## ZenHub
 
 https://www.zenhub.com/
+
+## Closing issues via commit messages
+
+https://help.github.com/articles/closing-issues-via-commit-messages/
+
+```
+close
+closes
+closed
+fix
+fixes
+fixed
+resolve
+resolves
+resolved
+```
