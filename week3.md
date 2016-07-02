@@ -2,7 +2,7 @@
 
 ## 時間與人數
 
-6/26 週日下午 1:00 ~ 4:00
+7/2 週日下午 1:00 ~ 4:00
 
 ## 前置準備
 
@@ -13,8 +13,8 @@
 1. 回顧問題與討論
 3. 使用 AgileWorks VM
 4. Pull Request 介紹
-5. 使用 SourceTree 進行 git 作業操作
-6. 使用 TortoiseGit 進行 git 作業操作
+5. 使用 SourceTree 進行 Git 作業操作
+6. 使用 TortoiseGit 進行 Git 作業操作
 7. 編修衝突
 
 ## 參考資料
