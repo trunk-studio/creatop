@@ -12,6 +12,6 @@
   * [實作 - GitHub Pages](vcs/lab-github-pages/README.md)
 * [第三週](week3.md)
   * [Pull Request](vcs/git/pull-request/README.md)
+  * [編修衝突](vcs/git/conflict/README.md)
   * [工具 - SourceTree](tools/sourcetree/README.md)
   * [工具 - TortoiseGit](tools/tortoisegit/README.md)
-  * [編修衝突](vcs/git/conflict/README.md)
