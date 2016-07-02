@@ -25,3 +25,7 @@ resolve
 resolves
 resolved
 ```
+
+## Manage Labels
+
+https://gist.github.com/MoOx/93c2853fee760f42d97f
