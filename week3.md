@@ -11,7 +11,6 @@
 ## 預計進度
 
 1. 回顧問題與討論
-3. 使用 AgileWorks VM
 4. Pull Request 介紹
 5. 使用 SourceTree 進行 Git 作業操作
 6. 使用 TortoiseGit 進行 Git 作業操作
