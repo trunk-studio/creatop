@@ -1,14 +1,30 @@
 # TortoiseGit
 
-## install
+## 安裝
 
-* 64 bit: https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-2.1.0.0-64bit.msi
-* 32 bit: https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-2.1.0.0-32bit.msi
+請先確認 Windows 電腦已安裝 Git 指令工具。
+
+* https://git-scm.com/download/win
+
+再安裝 TortoiseGit：
+
+* 64位元
+
+   https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-2.1.0.0-64bit.msi
+
+* 32位元
+
+   https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-2.1.0.0-32bit.msi
 
 ## 中文化
 
-* 32 bit: https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-32bit-zh_TW.msi
-* 64 bit: https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-64bit-zh_TW.msi
+* 32位元
+
+   https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-32bit-zh_TW.msi
+
+* 64位元
+
+   https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-64bit-zh_TW.msi
 
 ## 基本設置
 
