@@ -117,3 +117,9 @@ Git版本控制系統的操作可以藉由指令或是GUI的操作達到我們�
 * `git branch -m <OLD_BRANCH_NAME> <NEW_BRANCH_NAME>`
 
    修改分支名稱。
+
+## FAQ
+
+### 在 Windows 環境下設定 Git Default Editor
+
+http://stackoverflow.com/questions/10564/how-can-i-set-up-an-editor-to-work-with-git-on-windows
