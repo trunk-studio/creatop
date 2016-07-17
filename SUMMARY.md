@@ -16,10 +16,10 @@
   * [工具 - SourceTree](tools/sourcetree/README.md)
   * [工具 - TortoiseGit](tools/tortoisegit/README.md)
 * [第四週](week4.md)
-  * [Git flow: 專案版本控管策略說明](./vcs/git/flow/README.md)
-  * [GitHub flow: 專案版本控管策略說明](./vcs/git/githubflow//README.md)
+  * [Git Flow: 專案版本控管策略說明](./vcs/git/flow/README.md)
+  * [GitHub Flow: 專案版本控管策略說明](./vcs/git/githubflow//README.md)
   * [Upstream Pull Request: 跨檔案庫 Pull Request 操作](./vcs/git/upstream-pull-request/README.md)
-  * [fork Upstream 編修衝突](./vcs/git/fork-upstream-conflict/README.md)
+  * [Fork Upstream 編修衝突](./vcs/git/fork-upstream-conflict/README.md)
   * [敏捷開發方法：Scrum](agile/scrum/README.md)
   * Git 課程總結：Review 每週學習內容
   * 現行專案使用 Git 開始進行控管 Kick Start
