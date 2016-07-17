@@ -10,12 +10,19 @@
 
 ## 預計進度
 
+Session 1
+
 * Git Flow：專案版本控管策略說明
 * GitHub Flow：專案版本控管策略說明
 * Upstream Pull Request：跨檔案庫 Pull Request 操作
 * Fork Upstream 衝突編修
 * Git 課程總結：Review 每週學習內容
 * 現行專案使用 Git 開始進行控管 Kick Start
+
+Session 2
+
+* Scrum 流程簡介
+* Scrum 專案估時數方法
 
 ## 參考資料
 
