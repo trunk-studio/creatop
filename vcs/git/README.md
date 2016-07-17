@@ -27,6 +27,24 @@ Linus Torvalds（Linux Kernel 與 Git 作者）稱 Git 是「來自地獄的資�
 * Bitbucket
 * GitLab
 
+## 圖形化介面的 Git 管理工具
+
+* SmartGit
+
+   http://www.syntevo.com/smartgit/
+
+* SourceTree
+
+   https://www.sourcetreeapp.com/
+
+* GitHub Desktop
+
+   https://desktop.github.com/
+
+* 其他
+
+   https://git-scm.com/download/gui/linux
+
 ## 練習工具
 
 * [Code School - Try Git](https://try.github.io/)

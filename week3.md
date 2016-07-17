@@ -1,12 +1,12 @@
 # 第三週
 
-## 時間與人數
+## 時間
 
 7/2 週日下午 1:00 ~ 4:00
 
 ## 前置準備
 
-使用到的工具有 Slack、GitHub、Zoom、SourceTree、TortoiseGit、VirtualBox 等。
+使用到的工具有 Slack、GitHub、Zoom、SourceTree、TortoiseGit 與 VirtualBox 等。
 
 ## 預計進度
 
