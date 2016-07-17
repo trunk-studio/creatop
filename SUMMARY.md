@@ -18,7 +18,7 @@
 * [第四週](week4.md)
   * [Git flow: 專案版本控管策略說明](./vcs/git/flow/README.md)
   * [GitHub flow: 專案版本控管策略說明](./vcs/git/githubflow//README.md)
-  * [Upstream Pull Request: 跨檔案庫 Pull Request 操作](./vcs/git/upstreamPullRequest/README.md)
-  * [fork Upstream 編修衝突](./vcs/git/forkUpstreamConflict/README.md)
+  * [Upstream Pull Request: 跨檔案庫 Pull Request 操作](./vcs/git/upstream-pull-request/README.md)
+  * [fork Upstream 編修衝突](./vcs/git/fork-upstream-conflict/README.md)
   * Git 課程總結：Review 每週學習內容
   * 現行專案使用 Git 開始進行控管 Kick Start
