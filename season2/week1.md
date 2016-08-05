@@ -30,7 +30,8 @@ AWS 服務介紹，常見的解決方案參考。IT 人員需要具備的知識�
 * 初次使用AWS的技術人員或體驗者
 * 有興趣使用AWS的系統管理與開發人員
 
-## 預計進度
+<!--
+## 課程內容
 
 AWS介紹與歷史發展沿革
 
@@ -62,6 +63,21 @@ AWS管控服務與資料庫
 * 鑑別AWS的成因要件
 * 介紹AWS的CloudWatch搭配的警示與量測指標
 * 觀察AWS的Identity and Access Management (簡稱IAM)
+
+-->
+
+## 預計進度
+
+* 瀏覽AWS管理主控台
+  * AWS Management Console Overview
+* 認識AWS全球基礎設施
+  * Regions, Availability Zones, Edge Locations
+* AWS Components and Concepts
+* AWS 基本服務操作
+  * S3
+  * CloudFront
+  * IAM
+  * EC2
 
 ## 參考資料
 
