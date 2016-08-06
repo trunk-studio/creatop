@@ -78,6 +78,8 @@ AWS管控服務與資料庫
   * CloudFront
   * IAM
   * EC2
+  * Route53
+* AWS CLI
 
 ## 參考資料
 
