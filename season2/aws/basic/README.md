@@ -58,7 +58,6 @@ aws ec2 describe-availability-zones
 * SES
 * SQS
 
-
 ## AWS Management Console
 
 AWS 服務管理後台。

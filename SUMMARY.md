@@ -3,6 +3,9 @@
 * [第二階段：雲端開發技術](season2/README.md)
   * [第一週](season2/week1.md)
     * [入門](season2/aws/basic/README.md)
+  * [第一週](season2/week2.md)
+    * [S3](season2/aws/s3/README.md)
+    * [EC2](season2/aws/ec2/README.md)
 * 第一階段：版本控制系統
   * [第一週](week1.md)
     * [工具 - Slack](tools/slack/README.md)
