@@ -58,6 +58,14 @@ Amazon Elastic Block Store (Amazon EBS) 可在 AWS 雲端提供用於 Amazon EC2
 * Lambda
 * HPC (High Performance Compute) & Placement Groups
 
+## Official AMIs
+
+* Amazon Linux
+* Red Hat Enterprise Linux
+* SUSE Linux Enterprise Server
+* Ubuntu Server
+* Microsoft Windows Server
+
 ## Volumes and Snapshots
 
 Lab.
