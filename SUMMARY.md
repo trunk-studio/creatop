@@ -8,6 +8,8 @@
     * [EC2](season2/aws/ec2/README.md)
     * [複習](season2/review/week2.md)
   * [第三週](season2/week3.md)
+  * [第四週](season2/week4.md)
+    * [Elastic Beanstalk](season2/aws/beanstalk/README.md)
 * 第一階段：版本控制系統
   * [第一週](week1.md)
     * [工具 - Slack](tools/slack/README.md)
