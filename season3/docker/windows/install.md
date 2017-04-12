@@ -1,15 +1,21 @@
 
 ## 檢查 windows 是否有開啟虛擬化
 
+### Windows 10
+
+開啟工作管理員，確認下圖所示位置是否有開啟模擬
+![](assets/install-6f463.png)
+
+### Windows 7
 https://www.microsoft.com/en-us/download/details.aspx?id=592
 
-若有恭喜可以開始使用
-
-成功畫面
+成功畫面如下
 
 ![](assets/week1-29389.png)
 
-若沒有參考 https://github.com/agileworks-tw/tutorial/tree/master/docker/troubleshooting/vt_x_amd_v_error
+
+
+若模擬功能沒有開啟請參考 https://github.com/agileworks-tw/tutorial/tree/master/docker/troubleshooting/vt_x_amd_v_error
 
 
 
