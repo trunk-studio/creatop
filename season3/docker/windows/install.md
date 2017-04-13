@@ -7,13 +7,14 @@
 ![](assets/install-6f463.png)
 
 ### Windows 7
+
+下載虛擬化偵測軟體，由微軟所提供，連結如下：
+
 https://www.microsoft.com/en-us/download/details.aspx?id=592
 
-成功畫面如下
+若顯示下面畫面，表示已有開啟虛擬化
 
 ![](assets/week1-29389.png)
-
-
 
 若模擬功能沒有開啟請參考 https://github.com/agileworks-tw/tutorial/tree/master/docker/troubleshooting/vt_x_amd_v_error
 
