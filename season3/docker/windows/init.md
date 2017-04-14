@@ -107,8 +107,3 @@ docker@docker-vm:~$
 ```
 
 這邊可以使用 docker 指令來查看 docker 的一些訊息，你會發現跟剛剛在 Windows 載入 docker env 後所執行 docker 指令資訊一樣。
-
-
-## 取得範例專案
-
-https://github.com/agileworks-tw/php-dockerized
