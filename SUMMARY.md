@@ -30,11 +30,51 @@
       - [run -d](season3/docker/basic/102-container/daemon/README.md)
       - [exec, attach](season3/docker/basic/102-container/exec/README.md)
       - [rm](season3/docker/basic/102-container/rm/README.md)
+  * [第二週](season3/week1.md)
+    - [Lab 203: Docker Machine 的使用](season3/docker/machine/README.md)
+      - [install](season3/docker/machine/install/README.md)
+      - [drive](season3/docker/machine/drive/README.md)
+      - [create](season3/docker/machine/create/README.md)
+      - [env](season3/docker/machine/env/README.md)
+      - [ls](season3/docker/machine/ls/README.md)
+      - [upgrade](season3/docker/machine/upgrade/README.md)
+      - [rm](season3/docker/machine/rm/README.md)
 
+    - Lab 301: 使用 docker 建置 java 開發環境
+      - [運行環境安裝](season3/docker/project/java/env/README.md)
+      - [進入 Container 進行建置](season3/docker/project/java/env-docker-build/README.md)
+      - [透過 Dockerfile 進行建置](season3/docker/project/java/env-dockerfile/README.md)
 
-    <!-- * [php docker 範例](season3/docker/windows/php-sample.md) -->
+    - [Lab 201: Docker volume](season3/docker/basic/201-volume/README.md)
+      - [create, inspect](season3/docker/basic/201-volume/create/README.md)
+      - [direct volume host filesystem](season3/docker/basic/201-volume/direct/README.md)
+      - [volume form container](season3/docker/basic/201-volume/volume_from/README.md)
 
+    - [Lab 202: Docker network](season3/docker/basic/202-network/README.md)
+      - [link](season3/docker/basic/202-network/link/README.md)
+      - [expose](season3/docker/basic/202-network/expose/README.md)
+      - [create](season3/docker/basic/202-network/create/README.md)
+      - [port](season3/docker/basic/202-network/port/README.md)
+      - [透過 docker-compose 使用 network](season3/docker/basic/202-network/docker-compose/README.md)
+    - Lab 401: java 範例專案使用 docker 進行建置 (1 hour)
 
+      - [範例專案](season3/docker/project/java/repository/README.md)
+      - [安裝](season3/docker/project/java/mvn-install/README.md)
+      - [測試](season3/docker/project/java/mvn-test/README.md)
+      - [運行](season3/docker/project/java/mvn-run/README.md)
+      - [打包](season3/docker/project/java/mvn-package/README.md)
+  <!-- * [第三週](season3/docker/week1.md)
+    - Lab 402: docker-compose
+      - [run and up](season3/docker/compose/run_up/README.md)
+      - [其他指令](season3/docker/compose/other_command/README.md)
+    - Lab 403: java 範例專案使用 docker-compose 進行建置
+      - [練習：製作 dev mode service](season3/docker/pratice/compose-dev-mode.md)
+      - [範例專案](season3/docker/project/java/repository/README.md)
+      - [安裝](season3/docker/project/java/compose-mvn-install/README.md)
+      - [測試](season3/docker/project/java/compose-mvn-test/README.md)
+      - [運行](season3/docker/project/java/compose-mvn-run/README.md)
+      - [打包](season3/docker/project/java/compose-mvn-package/README.md)
+      * [php docker 範例](season3/docker/windows/php-sample.md) -->
 
 * [第二階段：雲端開發技術](season2/README.md)
   * [第一週](season2/week1.md)
