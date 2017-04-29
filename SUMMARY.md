@@ -63,18 +63,7 @@
       - [測試](season3/docker/project/java/mvn-test/README.md)
       - [運行](season3/docker/project/java/mvn-run/README.md)
       - [打包](season3/docker/project/java/mvn-package/README.md)
-  <!-- * [第三週](season3/docker/week1.md)
-    - Lab 402: docker-compose
-      - [run and up](season3/docker/compose/run_up/README.md)
-      - [其他指令](season3/docker/compose/other_command/README.md)
-    - Lab 403: java 範例專案使用 docker-compose 進行建置
-      - [練習：製作 dev mode service](season3/docker/pratice/compose-dev-mode.md)
-      - [範例專案](season3/docker/project/java/repository/README.md)
-      - [安裝](season3/docker/project/java/compose-mvn-install/README.md)
-      - [測試](season3/docker/project/java/compose-mvn-test/README.md)
-      - [運行](season3/docker/project/java/compose-mvn-run/README.md)
-      - [打包](season3/docker/project/java/compose-mvn-package/README.md)
-      * [php docker 範例](season3/docker/windows/php-sample.md) -->
+
 
 * [第二階段：雲端開發技術](season2/README.md)
   * [第一週](season2/week1.md)
